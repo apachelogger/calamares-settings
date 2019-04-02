@@ -15,3 +15,11 @@ Description: distribution-independent installer framework
  distribution-independent installer framework.
  .
  This package contains the calamares settings and branding for KDE neon.
+
+Package: calamares-settings-pinebook
+Architecture: arm64
+Depends: calamares
+Description: distribution-independent installer framework
+ distribution-independent installer framework.
+ .
+ This package contains the netrunner-pinebook-calamares settings and branding for Netrunner Debian Core.
