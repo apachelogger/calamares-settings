@@ -1,2 +1,2 @@
-etc/*
-usr/*
+desktop/etc/* etc/
+desktop/usr/* usr/
